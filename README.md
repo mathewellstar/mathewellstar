@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathewellstar
 - 👀 I’m interested in ... Wildlife Conservation & Front End Development
-- 🌱 I’m currently learning ... Backend Development
+- 🌱 I’m currently learning ... Backend Development!
 - 💞️ I’m looking to start building a portfolio ... This shall be exciting.
 
 <!---
